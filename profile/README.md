@@ -1,6 +1,6 @@
 # Optimage Advanced
 <div align="center">
-  <img src="https://optimage.app/media/optimage-app-icon.png" width="300" height="auto;"> 
+  <img src="https://stacks4all.com/uploads/default/original/2X/8/8f1fe26563da9b4b2d6b14b1583221a0ec0bcffb.png" width="300" height="auto;"> 
 </div>  
 <br>
 <div align="center">
